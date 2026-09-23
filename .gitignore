@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 /.idea/
+/ota.key
+/ota.crt
+/avb.key
+/*.zip
+/*.zip.patched
+/.tmp/
+/extracted/
+/*.exe
+/shiba-install-2026091901/
+/avdroot
+=======
+/.idea/
+>>>>>>> ee9ae38b85a321e79321c8c3a59593c1f05e7d9d
